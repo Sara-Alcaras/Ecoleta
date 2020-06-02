@@ -115,6 +115,8 @@ form button {
     margin-top: 40px;
 
     transition: background-color 400ms;
+
+    transition: 400ms;
 }
 
 form button:hover {
