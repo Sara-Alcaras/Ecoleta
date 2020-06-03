@@ -40,3 +40,5 @@ function getCities(event) {
 document
 .querySelector("select[name=uf]")
 .addEventListener("change", getCities)
+
+// Itens de coleta
