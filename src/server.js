@@ -103,4 +103,4 @@ server.get("/search", (req, res) => {
 })
 
 // ligar o servidor
-server.listen(3020)
+server.listen(process.env.PORT || 3020);
